@@ -1,0 +1,13 @@
+﻿Serial,Data set,Studies,Dataset Type
+1,Qualitas Corpus,"[S01], [S06], [S11], [S13] [S17], [20] [S22], [S25]",Open Source
+2,Code Smell 13 repository dataset,"[S04], [S07], [S14], [S18]",Open Source
+3,Self generated dataset,"[S15], [S23], [24]",Industrial
+4,"Two open source java projects [GanttProject, Apache Xerces]","[S05], [S21]",Open Source
+5,Landfill,[S02],Open Source
+6,Android Smell Dataset (Created Manually),[S03],Industrial
+7,Code Smell Github Dataset,[S08],Open Source
+8,Seven open source projects,[S09],Open Source
+9,Fourteen Industrial Software Systems,[S10],Industrial
+10,"Two projects [ArgoUML, Apache Xerces]",[S12],Open Source
+11,Eight Open Source Projects,[S19],Open Source
+12,BrainCode Dataset,[S26],Industrial
